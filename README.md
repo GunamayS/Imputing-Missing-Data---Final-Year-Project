@@ -36,11 +36,11 @@ MICE emerged as the most effective model, consistently outperforming others in a
 ## Requirements
 
 The project uses the following library versions:
-scikit-learn == 1.1.2
-scipy == 1.9.1
-missingpy == 0.2.0
-pandas == 2.2.1
-numpy == 1.24.4
+- scikit-learn == 1.1.2
+- scipy == 1.9.1
+- missingpy == 0.2.0
+- pandas == 2.2.1
+- numpy == 1.24.4
 
 ## User Guide
 
